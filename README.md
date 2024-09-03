@@ -21,7 +21,6 @@ This project aims to modernize the examination process by providing an online pl
 - **Remote Exam Access**: Allows candidates to take exams from any location.
 - **Exam Management**: Create, schedule, and manage exams with various formats.
 - **Automated Grading**: Instant grading for objective-type questions.
-- **Security Measures**: Includes authentication, anti-cheating mechanisms, and data encryption.
 - **Performance Analytics**: Generate detailed reports on candidate performance.
 - **User-Friendly Interface**: Easy navigation for all users.
 
